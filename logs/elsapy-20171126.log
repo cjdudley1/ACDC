@@ -1,0 +1,16 @@
+2017-11-26 11:20:55,457 - elsapy.elsclient - INFO - Module loaded.
+2017-11-26 11:20:55,459 - elsapy.elsentity - INFO - Module loaded.
+2017-11-26 11:20:55,460 - elsapy.elsprofile - INFO - Module loaded.
+2017-11-26 11:20:55,461 - elsapy.elsdoc - INFO - Module loaded.
+2017-11-26 11:20:55,462 - elsapy.elssearch - INFO - Module loaded.
+2017-11-26 11:22:48,313 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Chronic+sinusitis+disorder
+2017-11-26 11:22:50,782 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Acute+viral+pharyngitis+disorder
+2017-11-26 11:22:53,310 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Viral+sinusitis+disorder
+2017-11-26 11:25:13,221 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Hypertension
+2017-11-26 11:25:15,153 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Prediabetes
+2017-11-26 11:25:17,021 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Polyp+of+colon
+2017-11-26 11:25:19,006 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Stroke
+2017-11-26 11:25:20,821 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Alzheimer's+disease+disorder
+2017-11-26 11:25:22,938 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Polyp+of+colon
+2017-11-26 11:25:25,119 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Recurrent+rectal+polyp
+2017-11-26 11:25:27,304 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Malignant+tumor+of+colon
