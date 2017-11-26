@@ -7,3 +7,4 @@ testing.py
 .DS_Store
 src/data
 src/logs
+logs/
