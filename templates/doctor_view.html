@@ -34,7 +34,7 @@
     </div>
     <div id="patient_data">
         <div class="data-panel">
-            <span class="data-panel-title" href="#accordion-1">Recent Observations</span>
+            <span class="data-panel-title">Recent Observations</span>
             <hr>
             <div id="accordion-1" class="data-panel-content">
                 <div class="info_table" id="measurements_table">
@@ -55,9 +55,8 @@
                 </div>
             </div>
         </div>
-
         <div class="data-panel">
-            <span class="data-panel-title" href="#accordion-1">Recent Conditions</span>
+            <span class="data-panel-title">Recent Conditions</span>
             <hr>
             <div id="accordion-2" class="data-panel-content">
                 <div class="info_table" id="conditions_table">
@@ -78,13 +77,12 @@
                 </div>
             </div>
         </div>
-
         <div class="data-panel">
-            <span class="data-panel-title" href="#accordion-1">Suggested Reading</span>
+            <span class="data-panel-title">Suggested Reading</span>
             <hr>
             <div id="accordion-3" class="data-panel-content">
-                <div class="info_table" id="papers_table"></div>
-                <table style="width:90%">
+                <div class="info_table" id="papers_table">
+                    <table style="width:90%">
                     <tr class="tab-heading">
                       <th>Title</th>
                       <th>Author</th>
@@ -105,7 +103,8 @@
                       <td>{{ pap.date }}</td>
                     </tr>
                     {% endfor %}
-                </table>
+                    </table>
+                </div>
             </div>
         </div>
     </div>

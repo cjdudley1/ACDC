@@ -14,3 +14,71 @@
 2017-11-26 11:25:22,938 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Polyp+of+colon
 2017-11-26 11:25:25,119 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Recurrent+rectal+polyp
 2017-11-26 11:25:27,304 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Malignant+tumor+of+colon
+2017-11-26 11:31:44,908 - elsapy.elsclient - INFO - Module loaded.
+2017-11-26 11:31:44,909 - elsapy.elsentity - INFO - Module loaded.
+2017-11-26 11:31:44,910 - elsapy.elsprofile - INFO - Module loaded.
+2017-11-26 11:31:44,911 - elsapy.elsdoc - INFO - Module loaded.
+2017-11-26 11:31:44,912 - elsapy.elssearch - INFO - Module loaded.
+2017-11-26 11:32:02,662 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Chronic+sinusitis+disorder
+2017-11-26 11:32:05,139 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Acute+viral+pharyngitis+disorder
+2017-11-26 11:32:07,452 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Viral+sinusitis+disorder
+2017-11-26 11:33:30,517 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Chronic+sinusitis+disorder
+2017-11-26 11:33:33,102 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Acute+viral+pharyngitis+disorder
+2017-11-26 11:33:35,313 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Viral+sinusitis+disorder
+2017-11-26 11:34:13,810 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Hypertension
+2017-11-26 11:34:15,734 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Prediabetes
+2017-11-26 11:34:17,580 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Polyp+of+colon
+2017-11-26 11:34:19,434 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Stroke
+2017-11-26 11:34:21,285 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Alzheimer's+disease+disorder
+2017-11-26 11:34:23,307 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Polyp+of+colon
+2017-11-26 11:34:25,241 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Recurrent+rectal+polyp
+2017-11-26 11:34:27,427 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Malignant+tumor+of+colon
+2017-11-26 11:34:42,665 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Chronic+sinusitis+disorder
+2017-11-26 11:34:44,888 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Acute+viral+pharyngitis+disorder
+2017-11-26 11:34:47,102 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Viral+sinusitis+disorder
+2017-11-26 11:38:48,266 - elsapy.elsclient - INFO - Module loaded.
+2017-11-26 11:38:48,268 - elsapy.elsentity - INFO - Module loaded.
+2017-11-26 11:38:48,268 - elsapy.elsprofile - INFO - Module loaded.
+2017-11-26 11:38:48,269 - elsapy.elsdoc - INFO - Module loaded.
+2017-11-26 11:38:48,271 - elsapy.elssearch - INFO - Module loaded.
+2017-11-26 11:38:51,068 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Chronic+sinusitis+disorder
+2017-11-26 11:38:53,317 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Acute+viral+pharyngitis+disorder
+2017-11-26 11:38:55,676 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Viral+sinusitis+disorder
+2017-11-26 11:41:29,134 - elsapy.elsclient - INFO - Module loaded.
+2017-11-26 11:41:29,136 - elsapy.elsentity - INFO - Module loaded.
+2017-11-26 11:41:29,136 - elsapy.elsprofile - INFO - Module loaded.
+2017-11-26 11:41:29,137 - elsapy.elsdoc - INFO - Module loaded.
+2017-11-26 11:41:29,138 - elsapy.elssearch - INFO - Module loaded.
+2017-11-26 11:41:31,663 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Chronic+sinusitis+disorder
+2017-11-26 11:41:34,010 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Acute+viral+pharyngitis+disorder
+2017-11-26 11:41:36,151 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Viral+sinusitis+disorder
+2017-11-26 11:43:02,091 - elsapy.elsclient - INFO - Module loaded.
+2017-11-26 11:43:02,092 - elsapy.elsentity - INFO - Module loaded.
+2017-11-26 11:43:02,093 - elsapy.elsprofile - INFO - Module loaded.
+2017-11-26 11:43:02,094 - elsapy.elsdoc - INFO - Module loaded.
+2017-11-26 11:43:02,095 - elsapy.elssearch - INFO - Module loaded.
+2017-11-26 11:43:10,778 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Chronic+sinusitis+disorder
+2017-11-26 11:43:13,140 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Acute+viral+pharyngitis+disorder
+2017-11-26 11:43:15,668 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Viral+sinusitis+disorder
+2017-11-26 11:43:30,780 - elsapy.elsclient - INFO - Module loaded.
+2017-11-26 11:43:30,781 - elsapy.elsentity - INFO - Module loaded.
+2017-11-26 11:43:30,782 - elsapy.elsprofile - INFO - Module loaded.
+2017-11-26 11:43:30,783 - elsapy.elsdoc - INFO - Module loaded.
+2017-11-26 11:43:30,784 - elsapy.elssearch - INFO - Module loaded.
+2017-11-26 11:43:45,945 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Chronic+sinusitis+disorder
+2017-11-26 11:43:48,056 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Acute+viral+pharyngitis+disorder
+2017-11-26 11:43:50,223 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Viral+sinusitis+disorder
+2017-11-26 11:44:40,776 - elsapy.elsclient - INFO - Module loaded.
+2017-11-26 11:44:40,777 - elsapy.elsentity - INFO - Module loaded.
+2017-11-26 11:44:40,778 - elsapy.elsprofile - INFO - Module loaded.
+2017-11-26 11:44:40,779 - elsapy.elsdoc - INFO - Module loaded.
+2017-11-26 11:44:40,780 - elsapy.elssearch - INFO - Module loaded.
+2017-11-26 11:44:42,428 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Chronic+sinusitis+disorder
+2017-11-26 11:44:45,222 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Acute+viral+pharyngitis+disorder
+2017-11-26 11:44:47,488 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Viral+sinusitis+disorder
+2017-11-26 11:44:59,938 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Chronic+sinusitis+disorder
+2017-11-26 11:45:02,001 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Acute+viral+pharyngitis+disorder
+2017-11-26 11:45:04,535 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Viral+sinusitis+disorder
+2017-11-26 11:45:17,291 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Chronic+sinusitis+disorder
+2017-11-26 11:45:19,484 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Acute+viral+pharyngitis+disorder
+2017-11-26 11:45:21,658 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Viral+sinusitis+disorder
